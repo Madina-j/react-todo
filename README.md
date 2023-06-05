@@ -1,3 +1,20 @@
+/////////Todo List//////////////
+
+URL: "homepage":"http://Madina-j.github.io/react-todo" (isn't working, I followed  YouTube video tutorial "how to deploy ...", didn't work)
+
+I used nothing spectial:
+- React,
+- RiTodoFill, RiDeleteBin2Line from "react-icons/ri",
+- FaCheck  from "react-icons/fa",
+- CSS Modules 
+- 
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
