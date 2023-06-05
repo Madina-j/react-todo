@@ -1,13 +1,12 @@
-/////////Todo List//////////////
+# Todo List
 
-URL: "homepage":"http://Madina-j.github.io/react-todo" (isn't working, I followed  YouTube video tutorial "how to deploy ...", didn't work)
+Demo link: "https://madina-j.github.io/react-todo/"
 
-I used nothing spectial:
+I used nothing special:
 - React,
 - RiTodoFill, RiDeleteBin2Line from "react-icons/ri",
 - FaCheck  from "react-icons/fa",
 - CSS Modules 
-- 
 
 
 
